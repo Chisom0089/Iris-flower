@@ -91,3 +91,5 @@ b. Sepal length shows no correlation with sepal width.
 The analysis of the 3 classes of Iris flower dataset revealed key differences in sepal and petal measurements among Iris Setosa, Versicolour, and Virginica. Positive correlations were found between sepal and petal dimensions. These findings give a good idea of how the different types of Iris flowers differ in size and shape. This helps in accurately identifying each flower type and understanding their growth patterns better.
 
 For further analysis, advanced classification techniques, principal component analysis, clustering algorithms, exploring additional morphological features, time-series growth pattern studies, and comparative studies with other botanical datasets should be put into considerations. These approaches can enhance model accuracy and deepen understanding of plant morphology and growth.
+
+Feel free to follow me on linkedin[](https://www.linkedin.com/in/chisomibemere/) and twitter[](https://x.com/IbemereJulia). This report is my first project as a Data Analyst Intern at HNG TECH, kindly read more and follow HNG using the links: [](https://hng.tech/internship) and [](https://hng.tech/hire)
