@@ -1,6 +1,5 @@
 # ANALYSIS OF IRIS FLOWER DATASET AND WRITING A FIRST GLANCE TECHNICAL REPORT
 
-Iris plant.jpeg
 
 # INTRODUCTION
 The Iris dataset is a classic dataset in machine learning and statistics, often used for pattern recognition. It is one of the earliest known datasets used for evaluating classification methods.
