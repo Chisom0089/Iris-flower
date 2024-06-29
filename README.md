@@ -92,4 +92,4 @@ The analysis of the 3 classes of Iris flower dataset revealed key differences in
 
 For further analysis, advanced classification techniques, principal component analysis, clustering algorithms, exploring additional morphological features, time-series growth pattern studies, and comparative studies with other botanical datasets should be put into considerations. These approaches can enhance model accuracy and deepen understanding of plant morphology and growth.
 
-Feel free to follow me on linkedin[](https://www.linkedin.com/in/chisomibemere/) and twitter[](https://x.com/IbemereJulia). This report is my first project as a Data Analyst Intern at HNG TECH, kindly read more and follow HNG using the links: [](https://hng.tech/internship) and [](https://hng.tech/hire)
+Feel free to follow me on [linkedin](https://www.linkedin.com/in/chisomibemere/) and [twitter](https://x.com/IbemereJulia). This report is my first project as a Data Analyst Intern at HNG TECH, kindly read more and follow HNG using the links: [hng](https://hng.tech/internship) and [hnghire](https://hng.tech/hire)
