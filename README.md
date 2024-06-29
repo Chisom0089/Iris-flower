@@ -62,6 +62,7 @@ I carried out an analysis to determine the distribution and correlation between 
 ![features distributions](https://github.com/Chisom0089/Iris-flower/assets/138637505/c573aa19-03ca-467c-be2c-b58b900c24d0)
 
 From the visuals above, the following observations were made:
+
 Iris Virginica: Highest average sepal length (6.6 cm), petal length (5.6 cm), and petal width (2.03 cm).
 Iris Setosa: Least average sepal length (5.0 cm), petal length (1.5 cm), and petal width (0.24 cm).
 Iris Versicolour: Least average sepal width (2.77 cm).
@@ -71,11 +72,14 @@ Iris Versicolour: Least average sepal width (2.77 cm).
 ![correlation of featues](https://github.com/Chisom0089/Iris-flower/assets/138637505/a5e4c7b8-7996-4925-9980-7bc5fddb33b8)
 
 The correlation analysis revealed the following:
+
 Positive Correlations:
+
 a. Sepal length shows a positive correlation with petal length.
 b. Petal length shows a positive correlation with petal width.
 
 No Correlations:
+
 a. Sepal width shows no correlation with petal width.
 b. Sepal length shows no correlation with sepal width.
 
