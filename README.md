@@ -2,8 +2,10 @@
 
 ![Iris plant](https://github.com/Chisom0089/Iris-flower/assets/138637505/3ce4626c-cdca-48a3-bb9f-77fd099ce664)
 
+FIG 1: IRIS FLOWER
+
 # INTRODUCTION
-The Iris dataset is a classic dataset in machine learning and statistics, often used for pattern recognition. It is one of the earliest known datasets used for evaluating classification methods.
+The Iris dataset is a classic dataset in machine learning and statistics, often used for pattern recognition. It is one of the earliest known datasets used for evaluating classification methods.The Iris flower dataset can be accessed [here](https://archive.ics.uci.edu/dataset/53/iris)
 
 
 # PROJECT OBJECTIVES
@@ -13,30 +15,38 @@ The Iris dataset is a classic dataset in machine learning and statistics, often 
 
 
 # DATA EXPLORATION
-The dataset contains 150 rows and 5 columns of data. It is made up of 3 classes of Iris flowers with each class having 50 instances. I checked the dataset for duplicates, null values, outliers, and spelling errors and ensured all data types were correct. No duplicates or null values were found, and data types were consistent with the expected format.
+I loaded the dataset into Power Query Editor in Power BI. The dataset contains 150 rows and 5 columns of data. It is made up of 3 classes of Iris flowers with each class having 50 instances. I checked the dataset for duplicates, null values, outliers, and spelling errors and ensured all data types were correct. No duplicates or null values were found, and data types were consistent with the expected format.
 
 
 # DATASET ATTTRIBUTE
 The columns contains;
 1. Sepal length in cm
+   
 2. Sepal width in cm
+   
 3. Petal length in cm
+   
 4. Petal width in cm
+   
 5. Class:
+   
 a. Iris Setosa
 b. Iris Versicolour
 c. Iris Virginica
 
 # DESCRIPTIVE STATISTICS
-MAXIMIUM VALUES
+MAXIMIUM VALUES:
+
 a. Iris Virginica has the maximum petal length (6.90 cm), petal width (2.50 cm), and sepal length (7.90 cm).
 
-MINIMIUM VALUES
+MINIMIUM VALUES:
+
 a. Iris Setosa has the minimum petal length (1.00 cm), petal width (0.10 cm), and sepal length (4.30 cm).
 
 b. Iris Versicolour has the minimum sepal width (2.00 cm).
 
-STANDARD DEVIATION
+STANDARD DEVIATION:
+
 a. Iris Virginica has standard deviations of 0.55 cm (petal length), 0.27 cm (petal width), and 0.63 cm (sepal length).
 
 b. Iris Setosa has the minimum standard deviation for petal length (0.17 cm), petal width (0.11 cm), and sepal length (0.35 cm).
@@ -51,7 +61,7 @@ I carried out an analysis to determine the distribution and correlation between 
 
 ![features distributions](https://github.com/Chisom0089/Iris-flower/assets/138637505/c573aa19-03ca-467c-be2c-b58b900c24d0)
 
-From the visuals (e.g., scatter plots, histograms), the following observations were made:
+From the visuals above, the following observations were made:
 Iris Virginica: Highest average sepal length (6.6 cm), petal length (5.6 cm), and petal width (2.03 cm).
 Iris Setosa: Least average sepal length (5.0 cm), petal length (1.5 cm), and petal width (0.24 cm).
 Iris Versicolour: Least average sepal width (2.77 cm).
@@ -62,13 +72,14 @@ Iris Versicolour: Least average sepal width (2.77 cm).
 
 The correlation analysis revealed the following:
 Positive Correlations:
-Sepal length shows a positive correlation with petal length.
-Petal length shows a positive correlation with petal width.
+a. Sepal length shows a positive correlation with petal length.
+b. Petal length shows a positive correlation with petal width.
+
 No Correlations:
-Sepal width shows no correlation with petal width.
-Sepal length shows no correlation with sepal width.
+a. Sepal width shows no correlation with petal width.
+b. Sepal length shows no correlation with sepal width.
 
 # CONCLUSION
-The analysis of the 3 classes of Iris flower dataset revealed key differences in sepal and petal measurements among Iris Setosa, Versicolour, and Virginica. Positive correlations were found between sepal and petal dimensions.  
+The analysis of the 3 classes of Iris flower dataset revealed key differences in sepal and petal measurements among Iris Setosa, Versicolour, and Virginica. Positive correlations were found between sepal and petal dimensions. These findings give a good idea of how the different types of Iris flowers differ in size and shape. This helps in accurately identifying each flower type and understanding their growth patterns better.
 
-Advanced classification techniques, principal component analysis, clustering algorithms, exploring additional morphological features, time-series growth pattern studies, and comparative studies with other botanical datasets. These approaches can enhance model accuracy and deepen understanding of plant morphology and growth.
+For further analysis, advanced classification techniques, principal component analysis, clustering algorithms, exploring additional morphological features, time-series growth pattern studies, and comparative studies with other botanical datasets should be put into considerations. These approaches can enhance model accuracy and deepen understanding of plant morphology and growth.
