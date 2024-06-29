@@ -52,6 +52,8 @@ Iris Setosa: Least average sepal length (5.0 cm), petal length (1.5 cm), and pet
 Iris Versicolour: Least average sepal width (2.77 cm).
 
 # CORRELATION ANALYSIS
+correlation of featues.png
+
 The correlation analysis revealed the following:
 Positive Correlations:
 Sepal length shows a positive correlation with petal length.
