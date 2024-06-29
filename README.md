@@ -63,9 +63,11 @@ I carried out an analysis to determine the distribution and correlation between 
 
 From the visuals above, the following observations were made:
 
-Iris Virginica: Highest average sepal length (6.6 cm), petal length (5.6 cm), and petal width (2.03 cm).
-Iris Setosa: Least average sepal length (5.0 cm), petal length (1.5 cm), and petal width (0.24 cm).
-Iris Versicolour: Least average sepal width (2.77 cm).
+1. Iris Virginica: Highest average sepal length (6.6 cm), petal length (5.6 cm), and petal width (2.03 cm).
+
+2. Iris Setosa: Least average sepal length (5.0 cm), petal length (1.5 cm), and petal width (0.24 cm).
+
+3. Iris Versicolour: Least average sepal width (2.77 cm).
 
 # CORRELATION ANALYSIS
 
@@ -76,11 +78,13 @@ The correlation analysis revealed the following:
 Positive Correlations:
 
 a. Sepal length shows a positive correlation with petal length.
+
 b. Petal length shows a positive correlation with petal width.
 
 No Correlations:
 
 a. Sepal width shows no correlation with petal width.
+
 b. Sepal length shows no correlation with sepal width.
 
 # CONCLUSION
