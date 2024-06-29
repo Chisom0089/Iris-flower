@@ -48,6 +48,7 @@ These statistics suggest that Iris Virginica tends to have larger petals and sep
 
 # VISUAL ANALYSIS
 I carried out an analysis to determine the distribution and correlation between features.
+![features distributions](https://github.com/Chisom0089/Iris-flower/assets/138637505/c573aa19-03ca-467c-be2c-b58b900c24d0)
 From the visuals (e.g., scatter plots, histograms), the following observations were made:
 Iris Virginica: Highest average sepal length (6.6 cm), petal length (5.6 cm), and petal width (2.03 cm).
 Iris Setosa: Least average sepal length (5.0 cm), petal length (1.5 cm), and petal width (0.24 cm).
